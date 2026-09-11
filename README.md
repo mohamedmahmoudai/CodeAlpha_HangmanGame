@@ -17,8 +17,3 @@ The player attempts to guess a secret word one letter at a time. The game provid
 - Built-in Modules (`random`)
 - Input validation and string formatting
 
-## 🚀 How to Run
-1. Make sure you have Python installed on your system.
-2. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/CodeAlpha_HangmanGame.git](https://github.com/YOUR_USERNAME/CodeAlpha_HangmanGame.git)
